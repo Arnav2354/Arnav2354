@@ -42,8 +42,7 @@ removes stale EBS snapshots.
 
 ## GitHub Stats
 
-![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnav2354&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2354&theme=dark&hide_border=false&layout=compact)
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnav2354&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arnav2354&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2354&layout=compact&theme=tokyonight)
