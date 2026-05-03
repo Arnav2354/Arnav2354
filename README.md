@@ -40,9 +40,3 @@ removes stale EBS snapshots.
 
 ---
 
-## GitHub Stats
-
-
-![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnav2354&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav2354&layout=compact&theme=tokyonight)
